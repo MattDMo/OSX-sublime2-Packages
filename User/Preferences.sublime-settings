@@ -1,0 +1,42 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_selector": "source, meta.tag - punctuation.definition.tag.begin",
+	"bold_folder_labels": true,
+	"color_pick_upcase": true,
+	"color_scheme": "Packages/Neon Theme/Neon.tmTheme",
+	"default_line_ending": "unix",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"font_face": "Cousine",
+	"font_options":
+	[
+		"no_round",
+		"subpixel_antialias"
+	],
+	"font_size": 12.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		// "Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal"
+	],
+	"match_brackets_content": true,
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"show_full_path": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_ctrl_keys": false,
+	"vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": true,
+    "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_wrap": true,
+	"wrap_width": 0
+}

@@ -1,0 +1,5 @@
+[
+    { "keys": ["m"], "command" : "center_on_cursor", "context": [{"key": "setting.command_mode"}] },
+    { "keys": ["alt+space"], "command" : "center_on_cursor", "context": [{"key": "setting.command_mode"}] },
+    { "keys": ["ctrl+alt+shift+c"], "command" : "center_on_cursor", "context": [{"key": "setting.command_mode"}] }
+]

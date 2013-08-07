@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+alt+s"], "command": "get_selection_scope" },
+    { "keys": ["ctrl+alt+t"], "command": "time_stamp" }
+]
